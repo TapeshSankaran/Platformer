@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 11
+        },
+        "background.tmx": {
+            "scale": 1.1611111111111112,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 431.91387559808607,
+                "y": 179.5693779904306
+            }
+        },
+        "ddd.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1267,
+                "y": 403
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 400,
+    "last.exportedFilePath": "C:/Users/tapit/Documents/CMPM120/p5.template/PlatformerGame/assets",
+    "last.imagePath": "C:/Users/tapit/Documents/CMPM120/p5.template/PlatformerGame/assets",
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 48,
+    "openFiles": [
+        "platformer-level-1.tmx"
+    ],
+    "project": "background.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmx",
+        "ddd.tsx",
+        "background.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
